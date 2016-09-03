@@ -5,10 +5,13 @@
 # Site
 title: Fengyj's Blog
 subtitle: Love Coding, Love Money
-description:
+description: fengyj's blog.
 author: Fengyj
 language: en
 timezone: Asia/Chongqing
+email: fengyj@live.com
+# avatar
+avatar: https://secure.gravatar.com/avatar/7ceb32a4e90df17ca6744bec521653d8
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
