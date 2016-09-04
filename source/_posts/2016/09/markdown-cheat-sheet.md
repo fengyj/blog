@@ -1,5 +1,5 @@
 ---
 title: Markdown Cheat Sheet
 date: 2016-09-04 17:35:49
-tags:
+tags: [Markdown, Cheat Sheet]
 ---
