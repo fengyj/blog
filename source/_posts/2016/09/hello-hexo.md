@@ -5,3 +5,4 @@ tags: [Hexo]
 ---
 
 This blog is powered by Hexo, and hosted on GitHub, and is wrote in Bash on Windows. Amazing, right? :)
+Love it!
