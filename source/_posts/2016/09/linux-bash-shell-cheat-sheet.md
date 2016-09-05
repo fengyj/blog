@@ -310,3 +310,5 @@ Each set of permissions represents a single digit so the following commands have
 ```
   $ chmod 660 test.txt
 ```
+## References
+- [Bash-Cheatsheet by NisreenFarhoud](https://github.com/NisreenFarhoud/Bash-Cheatsheet)
