@@ -36,3 +36,19 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
+
+## Tag plug-in
+### Hexo-Tag-FontAwesome
+This tag plug-in allows you to use font awesome in the post.
+* Install
+```bash
+npm install hexo-tag-fontawesome
+```
+   And then copy the `fontawesome.js` to the theme folder you used, put it under the `<your theme>/scripts/tags/`, like `./themes/Next/scripts/tags/`.
+* Usage
+```markdown
+{% fa refresh spin %}
+{% fa home fw %}
+```
+
+
