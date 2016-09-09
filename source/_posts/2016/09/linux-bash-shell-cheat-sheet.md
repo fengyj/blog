@@ -22,15 +22,15 @@ cd Directory1/Directory2 | navigate to directory, Directory2, through path
 
 Shortcuts | Description
 --- | ---
-<kbd>CTRL</kbd> + <kbd>A</kbd> | Move cursor to beginning of line
-<kbd>CTRL</kbd> + <kbd>E</kbd> | Move cursor to end of line
-<kbd>CTRL</kbd> + <kbd>R</kbd> | Search bash history
-<kbd>CTRL</kbd> + <kbd>W</kbd> | Cut the last word
-<kbd>CTRL</kbd> + <kbd>U</kbd> | Cut everything before the cursor
-<kbd>CTRL</kbd> + <kbd>K</kbd> | Cut everything after the cursor
-<kbd>CTRL</kbd> + <kbd>Y</kbd> | Paste the last thing to be cut
-<kbd>CTRL</kbd> + <kbd>_</kbd> | Undo
-<kbd>CTRL</kbd> + <kbd>L</kbd> | Clears terminal screen
+{% kbd Ctrl %} + {% kbd A %} | Move cursor to beginning of line
+{% kbd Ctrl %} + {% kbd E %} | Move cursor to end of line
+{% kbd Ctrl %} + {% kbd R %} | Search bash history
+{% kbd Ctrl %} + {% kbd W %} | Cut the last word
+{% kbd Ctrl %} + {% kbd U %} | Cut everything before the cursor
+{% kbd Ctrl %} + {% kbd K %} | Cut everything after the cursor
+{% kbd Ctrl %} + {% kbd Y %} | Paste the last thing to be cut
+{% kbd Ctrl %} + {% kbd _ %} | Undo
+{% kbd Ctrl %} + {% kbd L %} | Clears terminal screen
 
 ## Common Commands
 ### man
