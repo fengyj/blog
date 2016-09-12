@@ -51,15 +51,22 @@ It's not recommended to use in classes, public properties, and public functions.
 * Keep in mind that the comments is obvious for now, but probably won't be obvious several weeks from now.  
 
 ## Formatting
+A well formatted article is more earier to be understund than bad one. For reading code it works just the same.
 ### Tab VS. Space
-
-### `this`
-
+Tab or space, it's a perpetual topic for developers. And there are more, Vim or EMacs, `{` in a new line or not, etc. Most of them are just personal preference, can't say which one is really better then another. For the tab or space is the same, but I prefer the space. The reason is tab could be presented differently in different editors.
+### Use `this.`
+In some coding standards recommend do not write `this.`, but I suggest, do it. There is a benfit add `this.` before the fields or properties is it could let you to distinguish between the variables and properties/fields in the function easier. 
 ### Column Guideline
-
+Add a column guideline, and set the value to 120. It could reminder you that the line is to long. It is a very bad experience to scroll horizontal scrollbar from time to time when reading code. 
 ### Remove the empty multiple lines.
+Please remove the empty lines when more than one.
+## Do not Hard Code
+Imagine this `order.Status = 1`, what does '1' mean? New order, or others? Or when you typing `event.Type = "SoemthingDone"`, you could not realize there is a typo. Or if someone want to know what else values of `order.Status` could be, how can he easy to find the anwser? 
+### Enum Type
+The first choose is Enum. It has better performance than `string` type. And it supports `FlagAttribute`, you can use bit operators on Enum types.
+### Use Constant
 
-## Enum Type
+### Use Settings
 
 ## Switch
 
