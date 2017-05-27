@@ -1,0 +1,1518 @@
+<Root>
+  <Account Id="IFBS000000" Name="BalanceSheet">
+    <SubAccounts>
+      <Account Id="IFBS002270" Name="Total Assets">
+        <SubAccounts>
+          <Account Id="IFBS002330" Name="Total Non-Current Assets">
+            <SubAccounts>
+              <Account Id="IFBS001450" Name="Net Property, Plant and Equipment">
+                <SubAccounts>
+                  <Account Id="IFBS001050" Name="Gross Property, Plant and Equipment">
+                    <SubAccounts>
+                      <Account Id="IFBS001880" Name="Properties">
+                        <SubAccounts>
+                          <Account Id="IFBS001200" Name="Land and Improvements" />
+                          <Account Id="IFBS000280" Name="Buildings and Improvements" />
+                          <Account Id="IFBS002670" Name="Leasehold and Improvements" />
+                          <Account Id="IFBS003300" Name="Other Properties and Improvements" />
+                        </SubAccounts>
+                      </Account>
+                      <Account Id="IFBS001340" Name="Machinery, Furniture and Equipment">
+                        <SubAccounts>
+                          <Account Id="IFBS002718" Name="Plant and Machinery" />
+                          <Account Id="IFBS002651" Name="Furniture, Fixtures and Office Equipment" />
+                          <Account Id="IFBS002650" Name="Flight, Fleet, Vehicle and Related Equipment" />
+                          <Account Id="IFBS002698" Name="Other Equipment" />
+                        </SubAccounts>
+                      </Account>
+                      <Account Id="IFBS002832" Name="Utility Plant">
+                        <SubAccounts>
+                          <Account Id="IFBS002833" Name="Water Utility Plant" />
+                          <Account Id="IFBS002807" Name="Electric Utility Plant" />
+                          <Account Id="IFBS002816" Name="Natural Gas Utility Plant" />
+                          <Account Id="IFBS002801" Name="Common Utility Plant" />
+                        </SubAccounts>
+                      </Account>
+                      <Account Id="IFBS000430" Name="Construction in Progress and Advance Payments" />
+                      <Account Id="IFBS002838" Name="Leased Property, Plant and Equipment" />
+                      <Account Id="IFBS001660" Name="Other Property, Plant and Equipment" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFBS002567" Name="Accumulated Depreciation and Impairment">
+                    <SubAccounts>
+                      <Account Id="IFBS000090" Name="Accumulated Depreciation">
+                        <SubAccounts>
+                          <Account Id="IFBS002579" Name="Accumulated Depreciation of Properties">
+                            <SubAccounts>
+                              <Account Id="IFBS002572" Name="Accumulated Depreciation of Land and Improvements" />
+                              <Account Id="IFBS002570" Name="Accumulated Depreciation of Buildings" />
+                              <Account Id="IFBS002573" Name="Accumulated Depreciation of Leasehold and Improvements" />
+                              <Account Id="IFBS003301" Name="Accumulated Depreciation of Other Properties and Improvements" />
+                            </SubAccounts>
+                          </Account>
+                          <Account Id="IFBS002574" Name="Accumulated Depreciation of Machinery, Furniture and Equipment">
+                            <SubAccounts>
+                              <Account Id="IFBS002578" Name="Accumulated Depreciation of Plant and Machinery" />
+                              <Account Id="IFBS002571" Name="Accumulated Depreciation of Furniture, Fixtures and Office Equipment" />
+                              <Account Id="IFBS002569" Name="Accumulated Depreciation of Flight, Fleet, Vehicle and Related Equipments" />
+                              <Account Id="IFBS002576" Name="Accumulated Depreciation of Other Equipment" />
+                            </SubAccounts>
+                          </Account>
+                          <Account Id="IFBS002795" Name="Accumulated Depreciation of Utility Plant">
+                            <SubAccounts>
+                              <Account Id="IFBS002796" Name="Accumulated Depreciation of Water Utility Plant" />
+                              <Account Id="IFBS002793" Name="Accumulated Depreciation of Electric Utility Plant" />
+                              <Account Id="IFBS002794" Name="Accumulated Depreciation of Natural Gas, Oil, Fuel and Other Utility Plant" />
+                              <Account Id="IFBS002792" Name="Accumulated Depreciation of Common Utility Plant" />
+                            </SubAccounts>
+                          </Account>
+                          <Account Id="IFBS002836" Name="Accumulated Depreciation of Leased Property, Plant and Equipment" />
+                          <Account Id="IFBS002840" Name="Accumulated Depreciation of Construction in Progress" />
+                          <Account Id="IFBS002577" Name="Accumulated Depreciation of Other Property, Plant and Equipment" />
+                        </SubAccounts>
+                      </Account>
+                      <Account Id="IFBS002585" Name="Accumulated Impairment of PPE" />
+                    </SubAccounts>
+                  </Account>
+                </SubAccounts>
+              </Account>
+              <Account Id="IFBS002950" Name="Net Mineral Property Interests and Exploration Assets">
+                <SubAccounts>
+                  <Account Id="IFBS003160" Name="Gross Mineral Property Interests and Exploration Assets" />
+                  <Account Id="IFBS003163" Name="Accumulated Amortization of Mineral Property Interests and Exploration Assets" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFBS100681" Name="Investment Properties and Properties Held for Development">
+                <SubAccounts>
+                  <Account Id="IFBS002656" Name="Gross Investment Properties and Properties Held for Development" />
+                  <Account Id="IFBS002564" Name="Accumulated Depreciation of Investment Properties and Properties Held for Development" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFBS001020" Name="Net Intangible Assets">
+                <SubAccounts>
+                  <Account Id="IFBS002655" Name="Gross Goodwill and Other Intangible Assets">
+                    <SubAccounts>
+                      <Account Id="IFBS001010" Name="Goodwill" />
+                      <Account Id="IFBS003302" Name="Intangibles other than Goodwill">
+                        <SubAccounts>
+                          <Account Id="IFBS002771" Name="Trademarks and Patents" />
+                          <Account Id="IFBS002755" Name="Software and Technology" />
+                          <Account Id="IFBS002675" Name="Licenses and Rights" />
+                          <Account Id="IFBS003167" Name="Research and Development" />
+                          <Account Id="IFBS003303" Name="Customer Relationships" />
+                          <Account Id="IFBS001610" Name="Other Intangible Assets" />
+                        </SubAccounts>
+                      </Account>
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFBS002549" Name="Accumulated Amortization and Impairment">
+                    <SubAccounts>
+                      <Account Id="IFBS002551" Name="Accumulated Amortization of Intangible Assets">
+                        <SubAccounts>
+                          <Account Id="IFBS002550" Name="Accumulated Amortization of Goodwill" />
+                          <Account Id="IFBS003304" Name="Accumulated Amortization of Intangibles other than Goodwill">
+                            <SubAccounts>
+                              <Account Id="IFBS002556" Name="Accumulated Amortization of Trademarks and Patents" />
+                              <Account Id="IFBS002555" Name="Accumulated Amortization of Software and Technology" />
+                              <Account Id="IFBS002548" Name="Accumulated Amortization of Licences and Rights" />
+                              <Account Id="IFBS003168" Name="Accumulated Amortization of Research and Development" />
+                              <Account Id="IFBS003305" Name="Accumulated Amortization of Customer Relationships" />
+                              <Account Id="IFBS002553" Name="Accumulated Amortization of Other Intangible Assets" />
+                            </SubAccounts>
+                          </Account>
+                        </SubAccounts>
+                      </Account>
+                      <Account Id="IFBS002583" Name="Accumulated Impairment of Intangible Assets">
+                        <SubAccounts>
+                          <Account Id="IFBS002582" Name="Accumulated Impairment of Goodwill" />
+                          <Account Id="IFBS002584" Name="Accumulated Impairment of Other Intangible Assets" />
+                        </SubAccounts>
+                      </Account>
+                    </SubAccounts>
+                  </Account>
+                </SubAccounts>
+              </Account>
+              <Account Id="IFBS200010" Name="Biological Assets">
+                <SubAccounts>
+                  <Account Id="IFBS002653" Name="Gross Biological Assets" />
+                  <Account Id="IFBS002565" Name="Accumulated Depreciation and Amortization of Biological Assets" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFBS002310" Name="Total Long Term Investments">
+                <SubAccounts>
+                  <Account Id="IFBS001320" Name="Long Term Equity Investments">
+                    <SubAccounts>
+                      <Account Id="IFBS100682" Name="Investments in Subsidiaries" />
+                      <Account Id="IFBS100683" Name="Investments in Associates" />
+                      <Account Id="IFBS100684" Name="Investments in Joint Ventures" />
+                      <Account Id="IFBS001180" Name="Investments in Other Ventures under Equity Method" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFBS100685" Name="Investment in Financial Assets, Non-Current">
+                    <SubAccounts>
+                      <Account Id="IFBS002380" Name="Trading Securities/Assets, Non-Current" />
+                      <Account Id="IFBS100727" Name="Debt Securities, Non-Current" />
+                      <Account Id="IFBS100706" Name="Equity Securities/Shares, Non-Current" />
+                      <Account Id="IFBS200050" Name="Financial Assets Designated as Fair Value Through Profit or Loss, Non-Current" />
+                      <Account Id="IFBS002642" Name="Financial Investment Securities, Available-for-Sale &amp; Held-to-Maturity, Non-Current">
+                        <SubAccounts>
+                          <Account Id="IFBS000220" Name="Available-for-Sale Securities, Non-Current" />
+                          <Account Id="IFBS001070" Name="Held-to-Maturity Securities, Non-Current" />
+                        </SubAccounts>
+                      </Account>
+                      <Account Id="IFBS003306" Name="Other Financial Assets, Non-Current" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFBS100721" Name="Other Investments, Non-Current" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFBS200663" Name="Derivative Investment and Hedging Assets, Non-Current" />
+              <Account Id="IFBS200020" Name="Trade and Other Receivables, Non-Current">
+                <SubAccounts>
+                  <Account Id="IFBS002770" Name="Trade/Accounts Receivable, Non-Current" />
+                  <Account Id="IFBS002680" Name="Loans Receivable, Non-Current" />
+                  <Account Id="IFBS002692" Name="Notes Receivable, Non-Current" />
+                  <Account Id="IFBS100732" Name="Finance Lease Receivable, Non-Current" />
+                  <Account Id="IFBS002763" Name="Taxes Receivable, Non-Current" />
+                  <Account Id="IFBS002952" Name="Amount Due from Related Parties, Non-Current" />
+                  <Account Id="IFBS002544" Name="Accrued Income/Unbilled Revenue/Cost in Excess of Billings, Non-Current" />
+                  <Account Id="IFBS002711" Name="Other Receivables, Non-Current" />
+                  <Account Id="IFBS002591" Name="General Allowance for Receivables and Write Offs, Non-Current" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFBS100733" Name="Prepayments and Deposits, Non-Current">
+                <SubAccounts>
+                  <Account Id="IFBS002725" Name="Prepayments, Non-Current" />
+                  <Account Id="IFBS002627" Name="Deposits Paid for Business and Fixed Assets, Non-Current" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFBS002668" Name="Inventories, Non-Current" />
+              <Account Id="IFBS200060" Name="Cash Restricted or Pledged, Non-Current" />
+              <Account Id="IFBS000700" Name="Deferred Tax Assets, Non-Current" />
+              <Account Id="IFBS000570" Name="Deferred Costs/Assets, Non-Current" />
+              <Account Id="IFBS002955" Name="Regulatory Assets, Non-Current" />
+              <Account Id="IFBS000720" Name="Pension and Other Employee Benefits, Non-Current" />
+              <Account Id="IFBS002601" Name="Assets Held for Sale/Discontinued Operations, Non-Current" />
+              <Account Id="IFBS001650" Name="Other Non-Current Assets" />
+            </SubAccounts>
+          </Account>
+          <Account Id="IFBS000470" Name="Total Current Assets">
+            <SubAccounts>
+              <Account Id="IFBS000350" Name="Cash, Cash Equivalents and Short Term Investments">
+                <SubAccounts>
+                  <Account Id="IFBS000320" Name="Cash and Cash Equivalents">
+                    <SubAccounts>
+                      <Account Id="IFBS000300" Name="Cash" />
+                      <Account Id="IFBS000310" Name="Cash Equivalents" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFBS001690" Name="Short Term Investments">
+                    <SubAccounts>
+                      <Account Id="IFBS002677" Name="Trading/ Listed Investments, Current" />
+                      <Account Id="IFBS002880" Name="Available-for-Sale Securities, Current" />
+                      <Account Id="IFBS002881" Name="Held-to-Maturity Securities, Current" />
+                      <Account Id="IFBS002712" Name="Other Short Term Investments" />
+                    </SubAccounts>
+                  </Account>
+                </SubAccounts>
+              </Account>
+              <Account Id="IFBS002607" Name="Cash Restricted or Pledged, Current" />
+              <Account Id="IFBS002631" Name="Derivative Investment and Hedging Assets, Current" />
+              <Account Id="IFBS001130" Name="Inventories">
+                <SubAccounts>
+                  <Account Id="IFBS001920" Name="Raw Materials, Consumables and Supplies" />
+                  <Account Id="IFBS002470" Name="Work-in-Process" />
+                  <Account Id="IFBS000890" Name="Finished Goods and Merchandise" />
+                  <Account Id="IFBS100719" Name="Long Term Contracts" />
+                  <Account Id="IFBS100720" Name="Real Estate and Investment Properties" />
+                  <Account Id="IFBS001630" Name="Other Inventories" />
+                  <Account Id="IFBS001140" Name="Inventory Allowance/Adjustments" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFBS200660" Name="Trade and Other Receivables, Current">
+                <SubAccounts>
+                  <Account Id="IFBS000020" Name="Trade/Accounts Receivable, Current">
+                    <SubAccounts>
+                      <Account Id="IFBS000030" Name="Gross Trade/Accounts Receivable, Current" />
+                      <Account Id="IFBS000160" Name="Allowance/Adjustments for Trade/Accounts Receivable, Current" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFBS002679" Name="Loans Receivable, Current" />
+                  <Account Id="IFBS002691" Name="Notes Receivable, Current">
+                    <SubAccounts>
+                      <Account Id="IFBS001510" Name="Gross Notes Receivable, Current" />
+                      <Account Id="IFBS000190" Name="Allowance/Adjustments for Notes Receivable, Current" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFBS100731" Name="Finance Lease Receivable, Current" />
+                  <Account Id="IFBS003244" Name="Dividends Receivable, Current" />
+                  <Account Id="IFBS002250" Name="Taxes Receivable, Current" />
+                  <Account Id="IFBS002592" Name="Amount Due From Related Parties, Current" />
+                  <Account Id="IFBS002410" Name="Accrued Income/Unbilled Revenue/Cost in Excess of Billings, Current" />
+                  <Account Id="IFBS002546" Name="Accrued Interest Receivable, Current" />
+                  <Account Id="IFBS002622" Name="Debtors Over 1 Year" />
+                  <Account Id="IFBS001680" Name="Other Receivables, Current" />
+                  <Account Id="IFBS002727" Name="General Allowance for Receivables and Write Offs, Current" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFBS100688" Name="Prepayments and Deposits, Current" />
+              <Account Id="IFBS000680" Name="Deferred Tax Assets, Current" />
+              <Account Id="IFBS200665" Name="Deferred Costs/Assets, Current" />
+              <Account Id="IFBS002959" Name="Regulatory Assets, Current" />
+              <Account Id="IFBS002600" Name="Assets Held for Sale/Discontinued Operations, Current" />
+              <Account Id="IFBS001550" Name="Other Current Assets" />
+            </SubAccounts>
+          </Account>
+        </SubAccounts>
+      </Account>
+      <Account Id="IFBS002646" Name="Total Liabilities">
+        <SubAccounts>
+          <Account Id="IFBS002647" Name="Total Non-Current Liabilities">
+            <SubAccounts>
+              <Account Id="IFBS100735" Name="Financial Liabilities, Non-Current">
+                <SubAccounts>
+                  <Account Id="IFBS002961" Name="Long Term Debt and Capital Lease Obligation">
+                    <SubAccounts>
+                      <Account Id="IFBS001290" Name="Long Term Debt">
+                        <SubAccounts>
+                          <Account Id="IFBS002695" Name="Notes Payables, Non-Current">
+                            <SubAccounts>
+                              <Account Id="IFBS003115" Name="Notes Payables-Secured, Non-Current" />
+                              <Account Id="IFBS003116" Name="Notes Payables-Unsecured, Non-Current" />
+                              <Account Id="IFBS003117" Name="Notes Payables-Other, Non-Current" />
+                            </SubAccounts>
+                          </Account>
+                          <Account Id="IFBS002844" Name="Convertible Debentures/Loans, Non-Current" />
+                          <Account Id="IFBS100697" Name="Bank/Institutional Loans, Non-Current">
+                            <SubAccounts>
+                              <Account Id="IFBS003121" Name="Bank/Institutional Loans-Secured, Non-Current" />
+                              <Account Id="IFBS003122" Name="Bank/Institutional Loans-Unsecured, Non-Current" />
+                              <Account Id="IFBS003123" Name="Bank/Institutional Loans-Other, Non-Current" />
+                            </SubAccounts>
+                          </Account>
+                          <Account Id="IFBS003169" Name="Bank/Credit Facilities, Non-Current">
+                            <SubAccounts>
+                              <Account Id="IFBS003170" Name="Bank Facilities-Secured, Non-Current" />
+                              <Account Id="IFBS003171" Name="Bank Facilities-Unsecured, Non-Current" />
+                              <Account Id="IFBS003172" Name="Bank Facilities-Other, Non-Current" />
+                            </SubAccounts>
+                          </Account>
+                          <Account Id="IFBS200160" Name="Non-Interest Bearing Borrowings, Non-Current" />
+                          <Account Id="IFBS003126" Name="Borrowings from Associates and Related Parties, Non-Current" />
+                          <Account Id="IFBS100698" Name="Other Loans, Non-Current" />
+                        </SubAccounts>
+                      </Account>
+                      <Account Id="IFBS100700" Name="Capital Lease Obligations, Non-Current" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFBS100699" Name="Derivative and Hedging Liabilities, Non-Current" />
+                  <Account Id="IFBS002862" Name="Other Financial Liabilities, Non-Current" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFBS001900" Name="Provisions, Non-Current">
+                <SubAccounts>
+                  <Account Id="IFBS003129" Name="Provision for Employee Entitlements, Non-Current">
+                    <SubAccounts>
+                      <Account Id="IFBS001730" Name="Pension and Other Post-Retirement Benefit Plans, Non-Current" />
+                      <Account Id="IFBS002860" Name="Other Employee-Related Liabilities, Non-Current" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFBS003175" Name="Provision for Mine Maintenance, Non-Current" />
+                  <Account Id="IFBS003176" Name="Provision for Asset Retirement Obligation/Site Restoration and Rehabilitation, Non-Current" />
+                  <Account Id="IFBS003131" Name="Other Provisions, Non-Current" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFBS000710" Name="Deferred Tax Liabilities, Non-Current" />
+              <Account Id="IFBS002805" Name="Deferred Liabilities, Non-Current">
+                <SubAccounts>
+                  <Account Id="IFBS000660" Name="Deferred Income/Customer Advances/Billings in Excess of Cost, Non-Current" />
+                  <Account Id="IFBS002855" Name="Other Deferred Liabilities, Non-Current" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFBS002717" Name="Payables and Accrued Expenses, Non-Current">
+                <SubAccounts>
+                  <Account Id="IFBS200170" Name="Trade and Other Payables, Non-Current">
+                    <SubAccounts>
+                      <Account Id="IFBS002769" Name="Trade/Accounts Payable, Non-Current" />
+                      <Account Id="IFBS002767" Name="Trade Notes Payable, Non-Current" />
+                      <Account Id="IFBS002761" Name="Taxes Payable, Non-Current" />
+                      <Account Id="IFBS002962" Name="Amount Due to Related Parties/Shareholders, Non-Current" />
+                      <Account Id="IFBS002706" Name="Other Payables, Non-Current" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFBS000060" Name="Accrued Expenses, Non-Current" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFBS002825" Name="Regulatory Liabilities, Non-Current" />
+              <Account Id="IFBS002080" Name="Restricted Common Stock" />
+              <Account Id="IFBS002674" Name="Liabilities Held for Sale/Discontinued Operations, Non-Current" />
+              <Account Id="IFBS002480" Name="Other Non-Current Liabilities" />
+              <Account Id="IFBS001780" Name="Preferred Securities Outside Stock Equity" />
+            </SubAccounts>
+          </Account>
+          <Account Id="IFBS000500" Name="Total Current Liabilities">
+            <SubAccounts>
+              <Account Id="IFBS002716" Name="Payables and Accrued Expenses, Current">
+                <SubAccounts>
+                  <Account Id="IFBS001710" Name="Trade and Other Payables, Current">
+                    <SubAccounts>
+                      <Account Id="IFBS000010" Name="Trade/Accounts Payable, Current" />
+                      <Account Id="IFBS002766" Name="Trade Notes Payable, Current" />
+                      <Account Id="IFBS000760" Name="Dividends Payable, Current" />
+                      <Account Id="IFBS002665" Name="Interest Payable, Current" />
+                      <Account Id="IFBS002593" Name="Amount Due to Related Parties/Shareholders, Current" />
+                      <Account Id="IFBS002240" Name="Taxes Payable, Current">
+                        <SubAccounts>
+                          <Account Id="IFBS001080" Name="Income Tax Payable, Current" />
+                          <Account Id="IFBS002713" Name="Other Tax Payable, Current" />
+                        </SubAccounts>
+                      </Account>
+                      <Account Id="IFBS002540" Name="Other Payable, Current" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFBS002541" Name="Accrued Expenses, Current" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFBS100734" Name="Financial Liabilities, Current">
+                <SubAccounts>
+                  <Account Id="IFBS002965" Name="Current Debt and Capital Lease Obligation">
+                    <SubAccounts>
+                      <Account Id="IFBS000480" Name="Current Debt">
+                        <SubAccounts>
+                          <Account Id="IFBS003177" Name="Bank Overdraft, Current Debt" />
+                          <Account Id="IFBS003178" Name="Bank/Credit Facilities, Current Debt">
+                            <SubAccounts>
+                              <Account Id="IFBS003179" Name="Bank Facilities-Secured, Current Debt" />
+                              <Account Id="IFBS003180" Name="Bank Facilities-Unsecured, Current Debt" />
+                              <Account Id="IFBS003181" Name="Bank Facilities-Other, Current Debt" />
+                            </SubAccounts>
+                          </Account>
+                          <Account Id="IFBS000390" Name="Commercial Paper" />
+                          <Account Id="IFBS002694" Name="Notes Payable, Current Debt">
+                            <SubAccounts>
+                              <Account Id="IFBS003026" Name="Notes Payables-Secured, Current Debt" />
+                              <Account Id="IFBS003027" Name="Notes Payables-Unsecured, Current Debt" />
+                              <Account Id="IFBS003028" Name="Notes Payables-Other, Current Debt" />
+                            </SubAccounts>
+                          </Account>
+                          <Account Id="IFBS200210" Name="Non-Interest-Bearing Borrowings, Current Debt" />
+                          <Account Id="IFBS003125" Name="Borrowings from Associates and Related Parties, Current Debt" />
+                          <Account Id="IFBS100691" Name="Other Loans, Current Debt" />
+                        </SubAccounts>
+                      </Account>
+                      <Account Id="IFBS003330" Name="Current Portion of Long Term Debt and Capital Lease">
+                        <SubAccounts>
+                          <Account Id="IFBS002617" Name="Current Portion of Long Term Debt">
+                            <SubAccounts>
+                              <Account Id="IFBS002615" Name="Convertible Loans/Debentures, Current Portion of LT Debt" />
+                              <Account Id="IFBS100690" Name="Bank/Institutional Loans, Current Portion of LT Debt">
+                                <SubAccounts>
+                                  <Account Id="IFBS003118" Name="Bank/Institutional Loans-Secured, Current Portion of LT Debt" />
+                                  <Account Id="IFBS003119" Name="Bank/Institutional Loans-Unsecured, Current Portion of LT Debt" />
+                                  <Account Id="IFBS003120" Name="Bank/Institutional Loans-Other, Current Portion of LT Debt" />
+                                </SubAccounts>
+                              </Account>
+                              <Account Id="IFBS002690" Name="Non-Interest-Bearing Borrowings, Current Portion of LT Debt" />
+                              <Account Id="IFBS003307" Name="Borrowings from Associates and Related Parties, Current Portion of LT Debt" />
+                              <Account Id="IFBS002703" Name="Other Current Portion of LT Debt" />
+                            </SubAccounts>
+                          </Account>
+                          <Account Id="IFBS100694" Name="Capital Lease Obligations, Current" />
+                        </SubAccounts>
+                      </Account>
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFBS200677" Name="Derivative and Hedging Liabilities, Current" />
+                  <Account Id="IFBS002861" Name="Other Financial Liabilities, Current" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFBS001890" Name="Provisions, Current">
+                <SubAccounts>
+                  <Account Id="IFBS003035" Name="Provision for Employee Entitlements, Current">
+                    <SubAccounts>
+                      <Account Id="IFBS200220" Name="Pension and Other Post-Retirement Benefit Plans, Current" />
+                      <Account Id="IFBS002859" Name="Other Employee-Related Liabilities, Current" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFBS003184" Name="Provision for Mine Maintenance, Current" />
+                  <Account Id="IFBS002596" Name="Provision for Asset Retirement Obligation/Site Restoration and Rehabilitation, Current" />
+                  <Account Id="IFBS003036" Name="Other Provisions, Current" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFBS000690" Name="Deferred Tax Liabilities, Current" />
+              <Account Id="IFBS000610" Name="Deferred Liabilities, Current">
+                <SubAccounts>
+                  <Account Id="IFBS002625" Name="Deferred Income/Customer Advances/Billings in Excess of Cost, Current" />
+                  <Account Id="IFBS002854" Name="Other Deferred Liabilities, Current" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFBS003020" Name="Regulatory Liabilities, Current" />
+              <Account Id="IFBS002673" Name="Discontinued Operations Liabilities, Current" />
+              <Account Id="IFBS001570" Name="Other Current Liabilities" />
+            </SubAccounts>
+          </Account>
+        </SubAccounts>
+      </Account>
+      <Account Id="IFBS002220" Name="Total Equity">
+        <SubAccounts>
+          <Account Id="IFBS200140" Name="Equity Attributable to Parent Stockholders">
+            <SubAccounts>
+              <Account Id="IFBS003308" Name="Paid in Capital">
+                <SubAccounts>
+                  <Account Id="IFBS000290" Name="Capital Stock">
+                    <SubAccounts>
+                      <Account Id="IFBS000400" Name="Common Stock">
+                        <SubAccounts>
+                          <Account Id="IFBS002841" Name="Common Stock, with Par Value" />
+                          <Account Id="IFBS002842" Name="Common Stock, without Par Value" />
+                        </SubAccounts>
+                      </Account>
+                      <Account Id="IFBS001800" Name="Preferred Stock">
+                        <SubAccounts>
+                          <Account Id="IFBS002731" Name="Redeemable Preferred Stock, Equity" />
+                          <Account Id="IFBS002707" Name="Other Preferred Stock" />
+                        </SubAccounts>
+                      </Account>
+                      <Account Id="IFBS000140" Name="Additional Paid in Capital/Share Premium" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFBS002606" Name="Capital Redemption" />
+                  <Account Id="IFBS002390" Name="Treasury Stock" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFBS002777" Name="Stock Options/Warrants/DeferredShares/ConvertibleDebentures" />
+              <Account Id="IFBS002868" Name="Stock Subscription" />
+              <Account Id="IFBS002100" Name="Retained Earnings/Accumulated Deficit" />
+              <Account Id="IFBS002737" Name="Reserves/Accumulated Comprehensive Income/Losses">
+                <SubAccounts>
+                  <Account Id="IFBS002759" Name="Surplus/Revenue Reserve" />
+                  <Account Id="IFBS002741" Name="Fixed Assets Revaluation Reserve" />
+                  <Account Id="IFBS002778" Name="Capital/Share Premium Reserve" />
+                  <Account Id="IFBS100701" Name="Other Reserves/Accum.Comp.Inc" />
+                  <Account Id="IFBS002559" Name="Cumulative Foreign Exchange Translation Reserves/Accum.Comp.Inc" />
+                  <Account Id="IFBS002558" Name="Available for Sale Financial Investments Reserves/Accum.Comp.Inc" />
+                  <Account Id="IFBS002560" Name="Gain/Loss from Cash Flow Hedges Reserves/Accum.Comp.Inc" />
+                  <Account Id="IFBS002563" Name="Pension and Other PostRetirement Benefit Plans Reserves/Accum.Comp.Inc" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFBS003313" Name="Equity Attributable to Holders of Perpetual Capital Securities" />
+              <Account Id="IFBS200130" Name="Other Equity Interest" />
+            </SubAccounts>
+          </Account>
+          <Account Id="IFBS001381" Name="Non-Controlling/Minority Interests in Equity" />
+          <Account Id="IFBS002350" Name="Total Partnership Capital">
+            <SubAccounts>
+              <Account Id="IFBS001240" Name="Limited Partner Capital">
+                <SubAccounts>
+                  <Account Id="IFBS002967" Name="Common Unit" />
+                  <Account Id="IFBS002968" Name="Preferred Unit" />
+                  <Account Id="IFBS002969" Name="Subordinated Unit" />
+                  <Account Id="IFBS002970" Name="Treasury Unit" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFBS001000" Name="General Partner Capital" />
+              <Account Id="IFBS002896" Name="Retained Earnings/Accumulated Deficit, LP" />
+              <Account Id="IFBS003311" Name="Reserves/Accumulated Comprehensive Income/Losses, LP" />
+              <Account Id="IFBS003312" Name="Stock Options/Warrants/DeferredShares/ConvertibleDebentures, LP" />
+              <Account Id="IFBS002897" Name="Other Partners Capital" />
+            </SubAccounts>
+          </Account>
+        </SubAccounts>
+      </Account>
+      <Account Id="IFBS002798" Name="Balance Sheet Supplemental Section">
+        <SubAccounts>
+          <Account Id="IFBS002829" Name="Shareholders Funds Movement">
+            <SubAccounts>
+              <Account Id="IFBS002818" Name="Opening Shareholders Funds" />
+              <Account Id="IFBS002826" Name="Retained Profit/Loss for the Period" />
+              <Account Id="IFBS002822" Name="Prior Year Adjustment" />
+              <Account Id="IFBS002834" Name="Equity Dividends" />
+              <Account Id="IFBS002810" Name="Exchange adjustments" />
+              <Account Id="IFBS002827" Name="Revaluations" />
+              <Account Id="IFBS002819" Name="Other Gains and Losses" />
+              <Account Id="IFBS002817" Name="New Share Capital" />
+              <Account Id="IFBS002828" Name="Share Option Schemes Release)/Expense" />
+              <Account Id="IFBS002823" Name="Purchase of Own Shares" />
+              <Account Id="IFBS002824" Name="Purchased Goodwill" />
+              <Account Id="IFBS002797" Name="Amortization of Goodwill" />
+              <Account Id="IFBS002811" Name="Goodwill Transfer" />
+              <Account Id="IFBS002821" Name="Pension Reserve" />
+              <Account Id="IFBS002820" Name="Other Transfers" />
+              <Account Id="IFBS002800" Name="Closing Shareholders Funds" />
+            </SubAccounts>
+          </Account>
+          <Account Id="IFBS003132" Name="Retained Earnings Movement">
+            <SubAccounts>
+              <Account Id="IFBS003133" Name="Retained Profits at Beginning of Period" />
+              <Account Id="IFBS003134" Name="Net Profit/Loss) Attribute to Members" />
+              <Account Id="IFBS003135" Name="Transfer to)/from Reserves/Provisions" />
+              <Account Id="IFBS003136" Name="Adj. Due to Change in Accounting Policy" />
+              <Account Id="IFBS003137" Name="Dividends Provided for or Paid" />
+              <Account Id="IFBS003138" Name="Retained Profits at End of Period" />
+            </SubAccounts>
+          </Account>
+          <Account Id="IFBS100695" Name="Creditors Due after One Year" />
+          <Account Id="IFBS002688" Name="Non-Equity Under 1 Year" />
+          <Account Id="IFBS002704" Name="Other Non-Equity" />
+        </SubAccounts>
+      </Account>
+      <Account Id="IFBS300000" Name="Shares Issued" />
+      <Account Id="IFBS300010" Name="Ordinary Shares Number" />
+      <Account Id="IFBS300020" Name="Common Treasury Share Number" />
+      <Account Id="IFBS300030" Name="Prefer Treasury Share Number" />
+      <Account Id="IFBS300040" Name="Preferred Shares Number" />
+      <Account Id="IFBSZ00001" Name="Capital Lease Obligations" />
+      <Account Id="IFBSZ00002" Name="Common Equity Book Value" />
+      <Account Id="IFBSZ00003" Name="Net Debt" />
+      <Account Id="IFBSZ00004" Name="Net Tangible Assets" />
+      <Account Id="IFBSZ00005" Name="Tangible Book Value" />
+      <Account Id="IFBSZ00006" Name="Total Debt" />
+      <Account Id="IFBSZ00007" Name="Working Capital" />
+      <Account Id="IFBSZ00008" Name="Invested Capital" />
+    </SubAccounts>
+  </Account>
+  <Account Id="IFIS000000" Name="IncomeStatement">
+    <SubAccounts>
+      <Account Id="IFIS000590" Name="Gross Profit">
+        <SubAccounts>
+          <Account Id="IFIS001170" Name="Total Revenue">
+            <SubAccounts>
+              <Account Id="IFIS001839" Name="Business Revenue" />
+              <Account Id="IFIS001827" Name="Acquired Revenue" />
+              <Account Id="IFIS000410" Name="Excise Taxes" />
+              <Account Id="IFIS002095" Name="Sales Return and Allowances/Discounts" />
+              <Account Id="IFIS002228" Name="Other Revenue" />
+            </SubAccounts>
+          </Account>
+          <Account Id="IFIS000200" Name="Cost of Revenue">
+            <SubAccounts>
+              <Account Id="IFIS003118" Name="Cost of Goods and Services" />
+              <Account Id="IFIS101180" Name="Changes in Inventories" />
+              <Account Id="IFIS002355" Name="Exploration,Development and Mineral Property Lease Expenses, Cost of Revenue" />
+              <Account Id="IFIS002358" Name="Rent and Landing Fees, Cost of Revenue" />
+              <Account Id="IFIS002360" Name="Taxes, Cost of Revenue" />
+              <Account Id="IFIS000490" Name="Purchased Fuel, Power and Gas" />
+              <Account Id="IFIS001260" Name="Operation Maintenance and Repairs" />
+              <Account Id="IFIS002093" Name="Royalties,Cost" />
+              <Account Id="IFIS002465" Name="Property Expenses and Hotel Operating Cost" />
+              <Account Id="IFIS002720" Name="Staff Cost, Cost of Revenue" />
+              <Account Id="IFIS003119" Name="Dpreciation &amp; Amortization, Cost of Revenue" />
+              <Account Id="IFIS002225" Name="Other Cost of Revenue" />
+            </SubAccounts>
+          </Account>
+        </SubAccounts>
+      </Account>
+      <Account Id="IFIS001220" Name="Operating Income/Expenses">
+        <SubAccounts>
+          <Account Id="IFIS001700" Name="Selling, General and Administrative Expenses">
+            <SubAccounts>
+              <Account Id="IFIS101183" Name="Staff Costs">
+                <SubAccounts>
+                  <Account Id="IFIS200291" Name="Wages and Salaries" />
+                  <Account Id="IFIS101184" Name="Social Security Costs" />
+                  <Account Id="IFIS101185" Name="Pension and Other Employee Benefits Costs" />
+                  <Account Id="IFIS200290" Name="Stock-Based Compensation" />
+                  <Account Id="IFIS002501" Name="Directors' Remuneration" />
+                  <Account Id="IFIS101205" Name="Other Staff Costs" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS000040" Name="General and Administrative Expenses" />
+              <Account Id="IFIS002590" Name="Management/Responsible Entity Fees" />
+              <Account Id="IFIS002081" Name="Legal, Accounting, Auditing and Consulting Fee">
+                <SubAccounts>
+                  <Account Id="IFIS002504" Name="Legal Fees" />
+                  <Account Id="IFIS001835" Name="Auditor Fees" />
+                  <Account Id="IFIS002503" Name="Non-Audit Fees Paid to Auditor" />
+                  <Account Id="IFIS002505" Name="Other Professional Accounting and Consulting Fees" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS002364" Name="Telecommunication Expense" />
+              <Account Id="IFIS000700" Name="Insurance and Claims" />
+              <Account Id="IFIS002500" Name="Operating Lease Expense" />
+              <Account Id="IFIS001600" Name="Rent Expense">
+                <SubAccounts>
+                  <Account Id="IFIS001866" Name="Equipment Hire" />
+                  <Account Id="IFIS001948" Name="Property Rent" />
+                  <Account Id="IFIS001938" Name="Other Rent" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS001690" Name="Selling and Marketing Expenses" />
+            </SubAccounts>
+          </Account>
+          <Account Id="IFIS001922" Name="Operation and Maintenance Expenses" />
+          <Account Id="IFIS001869" Name="Exploration Expenses" />
+          <Account Id="IFIS001620" Name="Research and Development Expenses" />
+          <Account Id="IFIS001855" Name="Depreciation, Amortization and Depletion">
+            <SubAccounts>
+              <Account Id="IFIS000250" Name="Depreciation and Amortization">
+                <SubAccounts>
+                  <Account Id="IFIS000240" Name="Depreciation" />
+                  <Account Id="IFIS000080" Name="Amortization" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS001854" Name="Depletion" />
+            </SubAccounts>
+          </Account>
+          <Account Id="IFIS001826" Name="Accretion of Asset Retirement Obligation" />
+          <Account Id="IFIS001370" Name="Taxes Other Than Income Taxes" />
+          <Account Id="IFIS003101" Name="Provisions">
+            <SubAccounts>
+              <Account Id="IFIS001949" Name="Provision for Doubtful Accounts" />
+              <Account Id="IFIS001950" Name="Other Provisions" />
+            </SubAccounts>
+          </Account>
+          <Account Id="IFIS101208" Name="Other Income/Expense, Operating">
+            <SubAccounts>
+              <Account Id="IFIS001897" Name="Income from Grants Received, Operating" />
+              <Account Id="IFIS200030" Name="Other Income, Operating" />
+              <Account Id="IFIS003104" Name="Other Expenses, Operating" />
+            </SubAccounts>
+          </Account>
+        </SubAccounts>
+      </Account>
+      <Account Id="IFIS001230" Name="Total Operating Profit/Loss" />
+      <Account Id="IFIS001917" Name="Non-Operating Income/Expense, Total">
+        <SubAccounts>
+          <Account Id="IFIS000930" Name="Total Net Finance Income/Expense">
+            <SubAccounts>
+              <Account Id="IFIS002367" Name="Net Interest Income/Expense">
+                <SubAccounts>
+                  <Account Id="IFIS000800" Name="Interest Expense Net of Capitalized Interest">
+                    <SubAccounts>
+                      <Account Id="IFIS003105" Name="Gross Interest">
+                        <SubAccounts>
+                          <Account Id="IFIS001968" Name="Short Term Interest Expense" />
+                          <Account Id="IFIS001908" Name="Long Term Interest Expense" />
+                          <Account Id="IFIS001875" Name="Finance Lease Interest Expense" />
+                        </SubAccounts>
+                      </Account>
+                      <Account Id="IFIS001902" Name="Interest Capitalized" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFIS000910" Name="Interest Income" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS101192" Name="Other Finance Income/Expenses">
+                <SubAccounts>
+                  <Account Id="IFIS001925" Name="Other Finance Income" />
+                  <Account Id="IFIS001924" Name="Other Finance Expenses" />
+                </SubAccounts>
+              </Account>
+            </SubAccounts>
+          </Account>
+          <Account Id="IFIS003347" Name="Amortization and Accretion of Securities" />
+          <Account Id="IFIS001915" Name="Net Investment Income">
+            <SubAccounts>
+              <Account Id="IFIS003106" Name="Dividend and Investment Income" />
+              <Account Id="IFIS001885" Name="Gain/Loss on Investments and Other Financial Instruments" />
+              <Account Id="IFIS001871" Name="Fair Value or Unrealized Gain/Loss on Financial Assets" />
+              <Account Id="IFIS101191" Name="Income from Associates, Joint Ventures and Other Participating Interests">
+                <SubAccounts>
+                  <Account Id="IFIS001964" Name="Share of Profit and Interest from Associates" />
+                  <Account Id="IFIS001966" Name="Share of Profit and Interest from Joint Venture" />
+                  <Account Id="IFIS001899" Name="Income from Other Participating Interests" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS002294" Name="Gain/Loss on Investment Properties">
+                <SubAccounts>
+                  <Account Id="IFIS002295" Name="Fair Value Gain/Loss on Investment Properties" />
+                  <Account Id="IFIS002296" Name="Gain/Loss on Disposal of Investment Properties" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS001882" Name="Gain/Loss on Foreign Currency Exchange">
+                <SubAccounts>
+                  <Account Id="IFIS003114" Name="Realized Gain/Loss on Foreign Currency Exchange" />
+                  <Account Id="IFIS003115" Name="Unrealized Gain/Loss on Foreign Currency Exchange" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS002217" Name="Gain/Loss on Derivatives">
+                <SubAccounts>
+                  <Account Id="IFIS003179" Name="Realized Gain/Loss on Derivatives" />
+                  <Account Id="IFIS003180" Name="Unrealized Gain/Loss on Derivatives" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS001928" Name="Other Investment Income" />
+            </SubAccounts>
+          </Account>
+          <Account Id="IFIS001946" Name="Pension Charge/Credit" />
+          <Account Id="IFIS001959" Name="Rental Income" />
+          <Account Id="IFIS101189" Name="Irregular Income/Expense">
+            <SubAccounts>
+              <Account Id="IFIS001856" Name="Disposal of Businesses" />
+              <Account Id="IFIS001955" Name="Provisions for Discontinuations" />
+              <Account Id="IFIS001877" Name="Fixed Asset Disposals" />
+              <Account Id="IFIS003120" Name="Gain/Loss on Sales of Current Assets" />
+              <Account Id="IFIS003121" Name="Gain/Loss on Sales of Non-Current Assets" />
+              <Account Id="IFIS001892" Name="Impairment/Write Off/Write Down of Capital Assets">
+                <SubAccounts>
+                  <Account Id="IFIS001893" Name="Impairment of Fixed Asset Investments" />
+                  <Account Id="IFIS001895" Name="Impairment of Fixed Assets" />
+                  <Account Id="IFIS002194" Name="Impairment of Intangible Assets" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS001887" Name="Goodwill Impairment/Write Off" />
+              <Account Id="IFIS001982" Name="Write Off/Write Down of Other Assets">
+                <SubAccounts>
+                  <Account Id="IFIS002130" Name="Write Off">
+                    <SubAccounts>
+                      <Account Id="IFIS002207" Name="Write Off-Fixed Assets" />
+                      <Account Id="IFIS002210" Name="Write Off-Intangible Assets" />
+                      <Account Id="IFIS002591" Name="Write Off-Bad Debts" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFIS001810" Name="Write Down">
+                    <SubAccounts>
+                      <Account Id="IFIS002201" Name="Write Down-Fixed Assets" />
+                      <Account Id="IFIS002204" Name="Write Down-Intangible Assets" />
+                    </SubAccounts>
+                  </Account>
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS002288" Name="Gain/Loss on Extinguishment of Debt" />
+              <Account Id="IFIS001851" Name="Debt Restructuring" />
+              <Account Id="IFIS002698" Name="Litigation Income/Expense">
+                <SubAccounts>
+                  <Account Id="IFIS002699" Name="Litigation Income" />
+                  <Account Id="IFIS002700" Name="Litigation Expense" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS002098" Name="Merger and Acquisition Income/Expense" />
+              <Account Id="IFIS000680" Name="Restructuring and Reorganization Income/Expense" />
+              <Account Id="IFIS001951" Name="Provisions For Reorganization and Restructuring" />
+              <Account Id="IFIS001836" Name="Bid Defence Costs" />
+              <Account Id="IFIS001830" Name="Associate Exceptional Items" />
+              <Account Id="IFIS001906" Name="Joint Venture Exceptional Items" />
+              <Account Id="IFIS001821" Name="Abnormal Pensions" />
+              <Account Id="IFIS003107" Name="Other Irregular Income/Expense">
+                <SubAccounts>
+                  <Account Id="IFIS001935" Name="Other Irregular Income" />
+                  <Account Id="IFIS001934" Name="Other Irregular Expense" />
+                </SubAccounts>
+              </Account>
+            </SubAccounts>
+          </Account>
+          <Account Id="IFIS200292" Name="Other Income/Expense, Non-Operating">
+            <SubAccounts>
+              <Account Id="IFIS200294" Name="Other Non-Operating Income" />
+              <Account Id="IFIS200295" Name="Other Non-Operating Expenses" />
+            </SubAccounts>
+          </Account>
+          <Account Id="IFIS001947" Name="Preferred Dividend, Pre-Tax Distribution" />
+        </SubAccounts>
+      </Account>
+      <Account Id="IFIS001490" Name="Pretax Income" />
+      <Account Id="IFIS001560" Name="Provision for Income Tax">
+        <SubAccounts>
+          <Account Id="IFIS002193" Name="Domestic Tax" />
+          <Account Id="IFIS001879" Name="Foreign Tax" />
+          <Account Id="IFIS001860" Name="Current Tax" />
+          <Account Id="IFIS001853" Name="Deferred Tax" />
+          <Account Id="IFIS001862" Name="Double Tax Relief" />
+          <Account Id="IFIS001971" Name="Tax on FX Adjustments" />
+          <Account Id="IFIS001940" Name="Other Tax" />
+          <Account Id="IFIS001833" Name="Associate Tax" />
+        </SubAccounts>
+      </Account>
+      <Account Id="IFIS002044" Name="Earnings from Equity Interest" />
+      <Account Id="IFIS001110" Name="Net Income before Extraordinary Items and Discontinued Operations" />
+      <Account Id="IFIS000340" Name="Discontinued Operations">
+        <SubAccounts>
+          <Account Id="IFIS001963" Name="Share of Discontinued Operations" />
+          <Account Id="IFIS001858" Name="Disposal of Discontinued Operations" />
+        </SubAccounts>
+      </Account>
+      <Account Id="IFIS000430" Name="Extraordinary Items" />
+      <Account Id="IFIS001936" Name="Other Net of Taxes Adjustments" />
+      <Account Id="IFIS001977" Name="Net Income after Extraordinary Items and Discontinued Operations" />
+      <Account Id="IFIS001040" Name="Non-Controlling/Minority Interests" />
+      <Account Id="IFIS001090" Name="Net Income after Non-Controlling/Minority Interests" />
+      <Account Id="IFIS001470" Name="Preferred/Other Stock Distribution">
+        <SubAccounts>
+          <Account Id="IFIS000020" Name="Preferred Stock Dividends" />
+          <Account Id="IFIS002517" Name="Convertible Preferred Stock Dividends" />
+          <Account Id="IFIS002046" Name="Other Distributions" />
+        </SubAccounts>
+      </Account>
+      <Account Id="IFIS003108" Name="Other Adjustments to Net Income Available to Common Stockholders" />
+      <Account Id="IFIS001100" Name="Net Income Available to Common Stockholders" />
+      <Account Id="IFIS101211" Name="Dilution to Earnings" />
+      <Account Id="IFIS002230" Name="Diluted Net Income Available to Common Stockholders" />
+      <Account Id="IFIS200300" Name="Net Income Allocated to Common Unitholders">
+        <SubAccounts>
+          <Account Id="IFIS002297" Name="Net Income Allocated to Limited Partner">
+            <SubAccounts>
+              <Account Id="IFIS002298" Name="Net Income Attributable to the Company, LP">
+                <SubAccounts>
+                  <Account Id="IFIS002299" Name="Net Income Including Non-Controlling Interests, LP" />
+                  <Account Id="IFIS002300" Name="Non-Controlling Interests, LP" />
+                  <Account Id="IFIS002301" Name="Preferred Interest, LP" />
+                  <Account Id="IFIS003109" Name="Other Adjustments to Net Income Attributable to the Company" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS002302" Name="Net Income Allocated to General Partner" />
+              <Account Id="IFIS200310" Name="Other Partner Equity, LP" />
+            </SubAccounts>
+          </Account>
+          <Account Id="IFIS200320" Name="Net Income Allocated to Subordinate Unitholders" />
+        </SubAccounts>
+      </Account>
+      <Account Id="IFIS101195" Name="Total Gross Dividends">
+        <SubAccounts>
+          <Account Id="IFIS101196" Name="Common Shares Gross Dividends" />
+          <Account Id="IFIS002127" Name="Special Gross Dividends" />
+          <Account Id="IFIS101197" Name="Preferred Gross Dividends" />
+        </SubAccounts>
+      </Account>
+      <Account Id="IFIS002156" Name="Income Statement Supplemental Section">
+        <SubAccounts>
+          <Account Id="IFIS003147" Name="Reported Normalized and Operating Income/Expense Supplemental Section">
+            <SubAccounts>
+              <Account Id="IFIS003137" Name="Reported Operating Expense" />
+              <Account Id="IFIS003138" Name="Reported Total Operating Profit/Loss" />
+              <Account Id="IFIS002229" Name="Reported Normalized Income" />
+              <Account Id="IFIS101198" Name="Reported Normalized Basic EPS">
+                <SubAccounts>
+                  <Account Id="IFIS101212" Name="Reported Normalized Basic EPS from Continuing Operations" />
+                  <Account Id="IFIS101209" Name="Reported Normalized Basic EPS from Discontinued Operations" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS101199" Name="Reported Normalized Diluted EPS">
+                <SubAccounts>
+                  <Account Id="IFIS101213" Name="Reported Normalized Diluted EPS from Continuing Operations" />
+                  <Account Id="IFIS101210" Name="Reported Normalized Diluted EPS from Discontinued Operations" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS002303" Name="Reported Effective Tax Rate" />
+              <Account Id="IFIS001868" Name="Reported Tax Effect of Irregular Items">
+                <SubAccounts>
+                  <Account Id="IFIS001918" Name="Reported Tax Effect of Exceptional Items for Normalized Earnings Calculation" />
+                  <Account Id="IFIS001832" Name="Reported Tax Effect of Associate Exceptional Items for Normalized Earnings Calculation" />
+                  <Account Id="IFIS002223" Name="Reported Tax Effect of Deferred Tax Asset and Liability for Normalized Earnings Calculation" />
+                  <Account Id="IFIS001911" Name="Reported Tax Effect of Exceptional Items for Normalized Earnings Calculation" />
+                </SubAccounts>
+              </Account>
+            </SubAccounts>
+          </Account>
+          <Account Id="IFIS001905" Name="Operating Income/Expense, Supplemental Section">
+            <SubAccounts>
+              <Account Id="IFIS002661" Name="Cost of Revenue, Supplemental" />
+              <Account Id="IFIS002183" Name="Selling, General and Administrative Expenses, Supplemental">
+                <SubAccounts>
+                  <Account Id="IFIS002136" Name="General and Administrative Expenses, Supplemental" />
+                  <Account Id="IFIS002182" Name="Selling and Marketing Expenses, Supplemental" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS002178" Name="Rental Income, Supplemental" />
+              <Account Id="IFIS002177" Name="Rent Expense, Supplemental">
+                <SubAccounts>
+                  <Account Id="IFIS002148" Name="Equipment Hire, Supplemental" />
+                  <Account Id="IFIS002174" Name="Property Rent, Supplemental" />
+                  <Account Id="IFIS002169" Name="Other Rent, Supplemental" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS002522" Name="Operating Lease Expense, Supplemental" />
+              <Account Id="IFIS003122" Name="Operation and Maintenance Expenses, Supplemental" />
+              <Account Id="IFIS002149" Name="Exploration Expenses, Supplemental" />
+              <Account Id="IFIS002179" Name="Research and Development Expenses, Supplemental" />
+              <Account Id="IFIS200330" Name="Depreciation, Amortization and Depletion, Supplemental">
+                <SubAccounts>
+                  <Account Id="IFIS002143" Name="Depreciation and Amortization, Supplemental">
+                    <SubAccounts>
+                      <Account Id="IFIS002144" Name="Depreciation, Supplemental" />
+                      <Account Id="IFIS002137" Name="Amortization, Supplemental" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFIS200340" Name="Depletion, Supplemental" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS003123" Name="Amortization of Securities, Supplemental" />
+              <Account Id="IFIS002171" Name="Pension Charge/Credit, Supplemental" />
+              <Account Id="IFIS003111" Name="Provisions, Supplemental">
+                <SubAccounts>
+                  <Account Id="IFIS002599" Name="Provision for Doubtful Accounts, Supplemental" />
+                  <Account Id="IFIS002534" Name="Other Provisions, Supplemental" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS002157" Name="Income from Grants Received, Supplemental" />
+              <Account Id="IFIS002192" Name="Other Income, Supplemental" />
+              <Account Id="IFIS002535" Name="Other Expense, Supplemental" />
+            </SubAccounts>
+          </Account>
+          <Account Id="IFIS002158" Name="Non-Operating Income/Expense, Supplemental Section">
+            <SubAccounts>
+              <Account Id="IFIS002667" Name="Net Interest Income/Expense, Supplemental">
+                <SubAccounts>
+                  <Account Id="IFIS002668" Name="Interest Expense Net of Capitalized Interest, Supplemental">
+                    <SubAccounts>
+                      <Account Id="IFIS002669" Name="Gross Interest, Supplemental" />
+                      <Account Id="IFIS002670" Name="Interest Capitalized, Supplemental" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFIS002671" Name="Interest Income, Supplemental" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS002160" Name="Net Investment Income, Supplemental">
+                <SubAccounts>
+                  <Account Id="IFIS002147" Name="Dividend and Investment Income, Supplemental" />
+                  <Account Id="IFIS002153" Name="Gain/Loss on Investments, Financial Instruments/Derivatives, Supplemental">
+                    <SubAccounts>
+                      <Account Id="IFIS002536" Name="Gain/Loss on Investments and Other Financial Instruments, Supplemental" />
+                      <Account Id="IFIS002537" Name="Gain/Loss on Derivatives, Supplemental" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFIS002150" Name="Fair Value or Unrealized Gain/Loss on Financial Assets, Supplemental" />
+                  <Account Id="IFIS002234" Name="Income from Associates, Joint Ventures and Other Participating Interests, Supplemental">
+                    <SubAccounts>
+                      <Account Id="IFIS002236" Name="Share of Profit and Interest from Associates, Supplemental" />
+                      <Account Id="IFIS002237" Name="Share of Profit and Interest from Joint Venture, Supplemental" />
+                      <Account Id="IFIS002235" Name="Income from Other Participating Interests, Supplemental" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFIS002233" Name="Gain/Loss on Investment Properties, Supplemental">
+                    <SubAccounts>
+                      <Account Id="IFIS002231" Name="Fair Value Gain/Loss on Investment Properties, Supplemental" />
+                      <Account Id="IFIS002232" Name="Gain/Loss on Disposal of Investment Properties, Supplemental" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFIS002152" Name="Gain/Loss on Foreign Currency Exchange, Supplemental">
+                    <SubAccounts>
+                      <Account Id="IFIS003116" Name="Realized Gain/Loss on Foreign Currency Exchange, Supplemental" />
+                      <Account Id="IFIS003117" Name="Unrealized Gain/Loss on Foreign Currency Exchange, Supplemental" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFIS002166" Name="Other Investment Income, Supplemental" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS002161" Name="Irregular Items, Supplemental">
+                <SubAccounts>
+                  <Account Id="IFIS002145" Name="Disposal of Businesses, Supplemental" />
+                  <Account Id="IFIS002176" Name="Provisions for Discontinuations, Supplemental" />
+                  <Account Id="IFIS002151" Name="Fixed Asset Disposals, Supplemental" />
+                  <Account Id="IFIS002673" Name="Gain/Loss on Sales of Current Assets, Supplemental" />
+                  <Account Id="IFIS002604" Name="Gain/Loss on Sales of Non-Current Assets, Supplemental" />
+                  <Account Id="IFIS002155" Name="Impairment/Write Off/Write Down of Capital Assets, Supplemental">
+                    <SubAccounts>
+                      <Account Id="IFIS002190" Name="Impairment of Fixed Asset Investments, Supplemental" />
+                      <Account Id="IFIS002191" Name="Impairment of Fixed Assets, Supplemental" />
+                      <Account Id="IFIS002196" Name="Impairment of Intangible Assets, Supplemental" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFIS002154" Name="Goodwill Impairment/Write Off, Supplemental" />
+                  <Account Id="IFIS002189" Name="Write Off/Write Down of Other Assets, Supplemental">
+                    <SubAccounts>
+                      <Account Id="IFIS002200" Name="Write Off, Supplemental">
+                        <SubAccounts>
+                          <Account Id="IFIS002209" Name="Write Off-Fixed Assets, Supplemental" />
+                          <Account Id="IFIS002212" Name="Write Off-Intangible Assets, Supplemental" />
+                          <Account Id="IFIS002598" Name="Write Off-Bad Debts, Supplemental" />
+                        </SubAccounts>
+                      </Account>
+                      <Account Id="IFIS002199" Name="Write Down, Supplemental">
+                        <SubAccounts>
+                          <Account Id="IFIS002203" Name="Write Down-Fixed Assets, Supplemental" />
+                          <Account Id="IFIS002206" Name="Write Down-Intangible Assets, Supplemental" />
+                        </SubAccounts>
+                      </Account>
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFIS003141" Name="Gain/Loss on Extinguishment of Debt, Supplemental" />
+                  <Account Id="IFIS002142" Name="Debt Restructuring, Supplemental" />
+                  <Account Id="IFIS002701" Name="Litigation Income/Expense, Supplemental">
+                    <SubAccounts>
+                      <Account Id="IFIS002702" Name="Litigation Income, Supplemental" />
+                      <Account Id="IFIS002703" Name="Litigation Expense, Supplemental" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFIS002135" Name="Merger and Acquisition Income/Expense, Supplemental" />
+                  <Account Id="IFIS002180" Name="Restructuring and Reorganization Expense, Supplemental" />
+                  <Account Id="IFIS002175" Name="Provisions For Reorganization and Restructuring, Supplemental" />
+                  <Account Id="IFIS002140" Name="Bid Defence Costs, Supplemental" />
+                  <Account Id="IFIS002138" Name="Associate Exceptional Items, Supplemental" />
+                  <Account Id="IFIS002162" Name="Joint Venture Exceptional Items, Supplemental" />
+                  <Account Id="IFIS002132" Name="Abnormal Pensions, Supplemental" />
+                  <Account Id="IFIS003110" Name="Other Irregular Income/Expense, Supplemental">
+                    <SubAccounts>
+                      <Account Id="IFIS002168" Name="Other Irregular Income, Supplemental" />
+                      <Account Id="IFIS002167" Name="Other Irregular Expense, Supplemental" />
+                    </SubAccounts>
+                  </Account>
+                </SubAccounts>
+              </Account>
+            </SubAccounts>
+          </Account>
+          <Account Id="IFIS003148" Name="Employee Costs and Professional Fees, Supplemental Section">
+            <SubAccounts>
+              <Account Id="IFIS002185" Name="Social Security Costs, Supplemental" />
+              <Account Id="IFIS002172" Name="Pension and Other Employee Benefits Costs, Supplemental" />
+              <Account Id="IFIS002187" Name="Stock-Based Compensation, Supplemental" />
+              <Account Id="IFIS002523" Name="Directors' Remuneration, Supplemental" />
+              <Account Id="IFIS002600" Name="Management/Responsible Entity Fees, Supplemental" />
+              <Account Id="IFIS002602" Name="Legal Fees, Supplemental" />
+              <Account Id="IFIS002139" Name="Auditor Fees, Supplemental">
+                <SubAccounts>
+                  <Account Id="IFIS002527" Name="Audit Fee Paid by Consolidated Entity to Main Auditor including Related Firms, Supplemental" />
+                  <Account Id="IFIS002528" Name="Audit Fee Paid by Consolidated Entity to Auditors other than the Main Auditor, Supplemental" />
+                  <Account Id="IFIS002529" Name="Audit Fee Paid by Parent Company to Main Auditor including Related Firms, Supplemental" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS002530" Name="Non-Audit Fees Paid to Auditor, Supplemental">
+                <SubAccounts>
+                  <Account Id="IFIS002531" Name="Audit Fee for Non-audit Paid by Consolidated Entity to Main Auditor including Related Firms, Supplemental" />
+                  <Account Id="IFIS002532" Name="Audit Fee for Non-audit Paid by Consolidated Entity to Auditors other than the Main Auditor, Supplemental" />
+                  <Account Id="IFIS002533" Name="Audit Fee for Non-audit Paid by Paid by Parent Company to Main Auditor including Related Firms, Supplemental" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS002603" Name="Other Professional Accounting and Consulting Fees,Supplemental" />
+            </SubAccounts>
+          </Account>
+        </SubAccounts>
+      </Account>
+      <Account Id="IFIS001842" Name="Comprehensive Income">
+        <SubAccounts>
+          <Account Id="IFIS001843" Name="Comprehensive Income Attributable to Company">
+            <SubAccounts>
+              <Account Id="IFIS001974" Name="Comprehensive Income Including Non-controlling Interests">
+                <SubAccounts>
+                  <Account Id="IFIS001914" Name="Total Net Income after Extraordinary Items and Discontinued Operations -CI" />
+                  <Account Id="IFIS002114" Name="Net Income after Non-Controlling/Minority Interests -CI" />
+                  <Account Id="IFIS002116" Name="Other Comprehensive Income, Net of Tax">
+                    <SubAccounts>
+                      <Account Id="IFIS002103" Name="Comprehensive Income, Cumulative Foreign Exchange Translation -Net of Tax" />
+                      <Account Id="IFIS002107" Name="Comprehensive Income, Investments Gain/Loss -Net of Tax" />
+                      <Account Id="IFIS002101" Name="Comprehensive Income, Asset Revaluation Gain/Loss-Net of Tax" />
+                      <Account Id="IFIS002105" Name="Comprehensive Income, Gain/Loss from Cash Flow Hedges -Net of Tax" />
+                      <Account Id="IFIS002111" Name="Comprehensive Income, Pension and Other PostRetirement Benefit Plans -Net of Tax" />
+                      <Account Id="IFIS002109" Name="Comprehensive Income, Other -Net of Tax" />
+                      <Account Id="IFIS002115" Name="Other Comprehensive Income, Before Tax">
+                        <SubAccounts>
+                          <Account Id="IFIS002102" Name="Comprehensive Income, Cumulative Foreign Exchange Translation -Before Tax" />
+                          <Account Id="IFIS002106" Name="Comprehensive Income, Investments Gain/Loss -Before Tax" />
+                          <Account Id="IFIS002100" Name="Comprehensive Income, Asset Revaluation Gain/Loss-Before Tax" />
+                          <Account Id="IFIS002104" Name="Comprehensive Income, Gain/Loss from Cash Flow Hedges -Before Tax" />
+                          <Account Id="IFIS002110" Name="Comprehensive Income, Pension and Other PostRetirement Benefit Plans -Before Tax" />
+                          <Account Id="IFIS002108" Name="Comprehensive Income, Other -Before Tax" />
+                        </SubAccounts>
+                      </Account>
+                      <Account Id="IFIS002113" Name="Income Tax Effect of Other Comprehensive Income Items" />
+                    </SubAccounts>
+                  </Account>
+                </SubAccounts>
+              </Account>
+              <Account Id="IFIS001844" Name="Comprehensive Income Attributable to Non-controlling Interests" />
+            </SubAccounts>
+          </Account>
+        </SubAccounts>
+      </Account>
+      <Account Id="IFIS002215" Name="Net Income from Continuing Operations(NASDAQ)" />
+      <Account Id="IFIS002216" Name="UnadjustedRevenue" />
+      <Account Id="IFISZ00001" Name="Earnings Before Interest and Tax (EBIT)" />
+      <Account Id="IFISZ00002" Name="Earnings Before Interest, Tax, Depreciation, and Amortization(EBITDA)" />
+      <Account Id="IFISZ00004" Name="Interest and Dividend Income" />
+      <Account Id="IFISZ00007" Name="Normalized EBIT" />
+    </SubAccounts>
+  </Account>
+  <Account Id="IFCF000000" Name="CashFlow">
+    <SubAccounts>
+      <Account Id="IFCF200010" Name="Cash Flows from/Used in Operating Activities, Direct">
+        <SubAccounts>
+          <Account Id="IFCF001590" Name="Net Cash Flow from Continuing Operating Activities, Direct">
+            <SubAccounts>
+              <Account Id="IFCF200020" Name="Cash Receipts from Operating Activities, Direct">
+                <SubAccounts>
+                  <Account Id="IFCF200622" Name="Receipts from Customers, Direct" />
+                  <Account Id="IFCF001668" Name="Receipts from Tax Refunds, Direct" />
+                  <Account Id="IFCF200623" Name="Receipts from Government Grants, Direct" />
+                  <Account Id="IFCF200150" Name="Dividends Received, Direct" />
+                  <Account Id="IFCF200170" Name="Interest Received, Direct" />
+                  <Account Id="IFCF200070" Name="Other Cash Receipts from Operating Activities, Direct" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFCF200080" Name="Cash Payments from Operating Activities, Direct">
+                <SubAccounts>
+                  <Account Id="IFCF200090" Name="Payments to Suppliers for Goods and Services, Direct" />
+                  <Account Id="IFCF001672" Name="Taxes Paid, Direct" />
+                  <Account Id="IFCF200110" Name="Payments to Employees, Direct" />
+                  <Account Id="IFCF200140" Name="Dividends Paid, CFO Direct">
+                    <SubAccounts>
+                      <Account Id="IFCF200625" Name="Common Stock Dividend Paid, CFO Direct" />
+                      <Account Id="IFCF200626" Name="Preferred Stock Dividend Paid, CFO Direct" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFCF200160" Name="Interest Paid, Direct" />
+                  <Account Id="IFCF002092" Name="Fees and Commissions Paid, Direct" />
+                  <Account Id="IFCF002093" Name="Payments for Exploration and Evaluation, Direct" />
+                  <Account Id="IFCF002094" Name="Payments for Development Expenditure, Direct" />
+                  <Account Id="IFCF002095" Name="Payments for Production, Direct" />
+                  <Account Id="IFCF002096" Name="Payments for Administration, Direct" />
+                  <Account Id="IFCF002097" Name="Payment for Advertising and Marketing, Direct" />
+                  <Account Id="IFCF002098" Name="Payment for Research and Development, Direct" />
+
+                  <Account Id="IFCF002099" Name="Payment for Leased Assets, Direct" />
+                  <Account Id="IFCF002100" Name="Payment for Other Working Capital, Direct" />
+                  <Account Id="IFCF200130" Name="Other Cash Payments from Operating Activities, Direct" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFCF200180" Name="Taxes Refund/Paid, Direct">
+                <SubAccounts>
+                  <Account Id="IFCF200660" Name="Domestic Tax Refund/Paid, Direct" />
+                  <Account Id="IFCF200670" Name="Overseas Tax Refund/Paid, Direct" />
+                </SubAccounts>
+              </Account>
+            </SubAccounts>
+          </Account>
+          <Account Id="IFCF001596" Name="Net Cash Flow from Discontinuing Operating Activities, Direct" />
+        </SubAccounts>
+      </Account>
+      <Account Id="IFCF000150" Name="Cash Flow from Operating Activities, Indirect">
+        <SubAccounts>
+          <Account Id="IFCF001591" Name="Net Cash Flow from Continuing Operating Activities, Indirect">
+            <SubAccounts>
+              <Account Id="IFCF200620" Name="Cash Generated from Operating Activities">
+                <SubAccounts>
+                  <Account Id="IFCF100460" Name="Profit/Loss before Taxes" />
+                  <Account Id="IFCF001613" Name="Income/Loss before Non-Cash Adjustment" />
+                  <Account Id="IFCF200190" Name="Total Adjustments for Non-Cash Items">
+                    <SubAccounts>
+                      <Account Id="IFCF001559" Name="Depreciation, Amortization and Depletion, Non-Cash Adjustment">
+                        <SubAccounts>
+                          <Account Id="IFCF000620" Name="Depreciation and Amortization, Non-Cash Adjustment">
+                            <SubAccounts>
+                              <Account Id="IFCF000610" Name="Depreciation, Non-Cash Adjustment" />
+                              <Account Id="IFCF000010" Name="Amortization, Non-Cash Adjustment" />
+                            </SubAccounts>
+                          </Account>
+                          <Account Id="IFCF001557" Name="Depletion, Non-Cash Adjustment" />
+                        </SubAccounts>
+                      </Account>
+                      <Account Id="IFCF000030" Name="Amortization of Securities, Non-Cash Adjustment" />
+                      <Account Id="IFCF001000" Name="Pension and Employee Benefit Expense, Non-Cash Adjustment" />
+                      <Account Id="IFCF000660" Name="Excess Tax Benefit from Stock-Based Compensation, Non-Cash Adjustment" />
+                      <Account Id="IFCF001500" Name="Stock-Based Compensation, Non-Cash Adjustment" />
+                      <Account Id="IFCF000570" Name="Deferred Taxes, Non-Cash Adjustment" />
+                      <Account Id="IFCF200624" Name="Minority Interest, Non-Cash Adjustment" />
+                      <Account Id="IFCF001582" Name="Interest and Finance Income/Expenses, Non-Cash Adjustment" />
+                      <Account Id="IFCF001855" Name="Allowance for Funds Used During Construction, Non-Cash Adjustment" />
+                      <Account Id="IFCF200621" Name="Other Provisions, Non-Cash Adjustment" />
+                      <Account Id="IFCF002200" Name="Net Investment Income/Loss, Non-Cash Adjustment">
+                        <SubAccounts>
+                          <Account Id="IFCF001562" Name="Dividend and Interest Income, Non-Cash Adjustment" />
+                          <Account Id="IFCF000690" Name="Realized Gain/Loss on Disposal/Sale of Financial Instruments, Non-Cash Adjustment" />
+                          <Account Id="IFCF001673" Name="Unrealized Gain/Loss on Financial Assets/Liabilities, Non-Cash Adjustment" />
+                          <Account Id="IFCF001644" Name="Gain/Loss on Derivatives, Non-Cash Adjustment" />
+                          <Account Id="IFCF001568" Name="Realized Gain/Loss on Disposal/Sale of Investment Properties, Non-Cash Adjustment" />
+                          <Account Id="IFCF001567" Name="Fair Value Gain/Loss on Investment Properties, Non-Cash Adjustment" />
+                          <Account Id="IFCF100472" Name="Share of Profit/Loss from Associates, Joint Ventures and other Equity Investments, Non-Cash Adjustment" />
+                          <Account Id="IFCF000840" Name="Net Foreign Currency Exchange Gain/Loss, Non-Cash Adjustment" />
+                          <Account Id="IFCF002201" Name="Gain/Loss for Other Investment, Non-Cash Adjustment" />
+                        </SubAccounts>
+                      </Account>
+                      <Account Id="IFCF002202" Name="Irregular Income/Loss, Non-Cash Adjustment">
+                        <SubAccounts>
+                          <Account Id="IFCF100473" Name="Gain/Loss on Disposals, Non-Cash Adjustment">
+                            <SubAccounts>
+                              <Account Id="IFCF000720" Name="Gain/Loss on Disposal/Sale of Fixed Assets, Non-Cash Adjustment" />
+                              <Account Id="IFCF000700" Name="Gain/Loss on Disposal/Sale of Business, Non-Cash Adjustment" />
+                              <Account Id="IFCF001569" Name="Gain/Loss on Disposal/Sale of Other Assets, Non-Cash Adjustment" />
+                            </SubAccounts>
+                          </Account>
+                          <Account Id="IFCF001501" Name="Accretion of Asset Retirement Obligation, Non-Cash Adjustment" />
+                          <Account Id="IFCF200200" Name="Write off/Write down/Impairment of Capital Assets Loss/Reversal, Non-Cash Adjustment" />
+                          <Account Id="IFCF001675" Name="Write Down and Write off of Other Assets, Non-Cash Adjustment" />
+                          <Account Id="IFCF001785" Name="Gain/Loss on Extinguishment of Debt, Non-Cash Adjustment" />
+                          <Account Id="IFCF001781" Name="Impairment of Goodwill, Non-Cash Adjustment" />
+                          <Account Id="IFCF100474" Name="Reorganization and M&amp;A, Non-Cash Adjustment" />
+                          <Account Id="IFCF002203" Name="Other Irregular Income/Loss, Non-Cash Adjustment" />
+                        </SubAccounts>
+                      </Account>
+                      <Account Id="IFCF001737" Name="Other Operating Gain/Loss, Non-Cash Adjustment" />
+                      <Account Id="IFCF000920" Name="Other Non-Cash Items" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFCF000530" Name="Changes in Operating Capital">
+                    <SubAccounts>
+                      <Account Id="IFCF000340" Name="Change in Inventories" />
+                      <Account Id="IFCF000450" Name="Change in Trade and Other Receivables">
+                        <SubAccounts>
+                          <Account Id="IFCF001547" Name="Change in Trade/Accounts Receivable" />
+                          <Account Id="IFCF002204" Name="Change in Loans Receivable" />
+                          <Account Id="IFCF002205" Name="Change in Notes Receivable" />
+                          <Account Id="IFCF002206" Name="Change in Finance Lease Receivable" />
+                          <Account Id="IFCF002207" Name="Change in Dividends Receivable" />
+                          <Account Id="IFCF001544" Name="Change in Tax Receivables" />
+                          <Account Id="IFCF200480" Name="Change in Accrued Income/Unbilled Revenue/Cost in Excess of Billings" />
+                          <Account Id="IFCF002208" Name="Change in Interest Receivables" />
+                          <Account Id="IFCF001536" Name="Change in Other Receivables" />
+                        </SubAccounts>
+                      </Account>
+                      <Account Id="IFCF001551" Name="Change in Prepayments and Deposits" />
+                      <Account Id="IFCF001540" Name="Change in Cash Restricted or Pledged" />
+                      <Account Id="IFCF000370" Name="Change in Other Current Assets" />
+                      <Account Id="IFCF001537" Name="Change in Payables and Accrued Expenses">
+                        <SubAccounts>
+                          <Account Id="IFCF000400" Name="Change in Trade and Other Payables">
+                            <SubAccounts>
+                              <Account Id="IFCF001545" Name="Change in Trade/Accounts Payable" />
+                              <Account Id="IFCF002209" Name="Change in Trade Notes Payable" />
+                              <Account Id="IFCF001528" Name="Change in Dividends Payable" />
+                              <Account Id="IFCF000330" Name="Change in Interest Payables" />
+                              <Account Id="IFCF001542" Name="Change in Taxes Payable" />
+                              <Account Id="IFCF001534" Name="Change in Other Payables" />
+                            </SubAccounts>
+                          </Account>
+                          <Account Id="IFCF000260" Name="Change in Accrued Expenses" />
+                        </SubAccounts>
+                      </Account>
+                      <Account Id="IFCF001190" Name="Change in Provisions" />
+                      <Account Id="IFCF001525" Name="Change in Deferred Assets/Liabilities" />
+                      <Account Id="IFCF000380" Name="Change in Other Current Liabilities" />
+                      <Account Id="IFCF001532" Name="Change in Other Operating Capital" />
+                    </SubAccounts>
+                  </Account>
+                </SubAccounts>
+              </Account>
+              <Account Id="IFCF200260" Name="Dividend Paid, CFO Indirect">
+                <SubAccounts>
+                  <Account Id="IFCF200627" Name="Common Stock Dividend Paid, CFO Indirect" />
+                  <Account Id="IFCF200628" Name="Preferred Stock Dividend Paid, CFO Indirect" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFCF200270" Name="Dividend Received, CFO Indirect" />
+              <Account Id="IFCF001579" Name="Interest Paid for Hire Purchase and Finance Leases, CFO Indirect" />
+              <Account Id="IFCF001584" Name="Investment Receipts, CFO Indirect" />
+              <Account Id="IFCF100464" Name="Interest Paid, CFO Indirect" />
+              <Account Id="IFCF100463" Name="Interest Received, CFO Indirect" />
+              <Account Id="IFCF200280" Name="Taxes Refund/Paid, Indirect">
+                <SubAccounts>
+                  <Account Id="IFCF001564" Name="Domestic Tax Refund/Paid, Indirect" />
+                  <Account Id="IFCF001628" Name="Overseas Tax Refund/Paid, Indirect" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFCF001638" Name="Preference Minorities, CFO Indirect" />
+              <Account Id="IFCF100475" Name="Other Financing, CFO Indirect" />
+              <Account Id="IFCF200290" Name="Other Operating Cash Flow" />
+            </SubAccounts>
+          </Account>
+          <Account Id="IFCF001595" Name="Net Cash Flow from Discontinuing Operating Activities" />
+        </SubAccounts>
+      </Account>
+      <Account Id="IFCF000140" Name="Cash Flow from Investing Activities">
+        <SubAccounts>
+          <Account Id="IFCF001510" Name="Cash Flow from Continuing Investing Activities">
+            <SubAccounts>
+              <Account Id="IFCF000061" Name="Capital Expenditure, Reported" />
+              <Account Id="IFCF001629" Name="Payment for Loan Granted and Repayments Received, Net">
+                <SubAccounts>
+                  <Account Id="IFCF200360" Name="Cash Advances and Loans Made to Other Parties" />
+                  <Account Id="IFCF200370" Name="Cash Receipts from Repayment of Advances and Loans Made to Other Parties" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFCF002103" Name="Exploration and Mine Development Costs" />
+              <Account Id="IFCF001330" Name="Purchase/Sale and Disposal of Property, Plant and Equipment, Net">
+                <SubAccounts>
+                  <Account Id="IFCF001260" Name="Purchase of Property, Plant and Equipment" />
+                  <Account Id="IFCF001856" Name="Purchase of Mineral Properties/Rights/Interests" />
+                  <Account Id="IFCF001430" Name="Sale and Disposal of Property, Plant and Equipment" />
+                  <Account Id="IFCF001857" Name="Sale of Mineral Properties/Rights/Interests" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFCF001310" Name="Purchase/Sale of Intangibles, Net">
+                <SubAccounts>
+                  <Account Id="IFCF001220" Name="Purchase of Intangibles" />
+                  <Account Id="IFCF001400" Name="Sale of Intangibles" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFCF001300" Name="Purchase/Sale of Business, Net">
+                <SubAccounts>
+                  <Account Id="IFCF001290" Name="Purchase/Acquisition of Business" />
+                  <Account Id="IFCF001390" Name="Sale of Business" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFCF001651" Name="Purchase/Sale of Equity Investments">
+                <SubAccounts>
+                  <Account Id="IFCF100466" Name="Purchase of Joint Venture/Associate" />
+                  <Account Id="IFCF100468" Name="Sale of Joint Venture/Associate" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFCF001652" Name="Purchase/Sale of Investment Properties, Net">
+                <SubAccounts>
+                  <Account Id="IFCF001646" Name="Purchase of Investment Properties" />
+                  <Account Id="IFCF001661" Name="Sale of Investment Properties" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFCF001320" Name="Purchase/Sale of Investments, Net">
+                <SubAccounts>
+                  <Account Id="IFCF001240" Name="Purchase of Investments" />
+                  <Account Id="IFCF001410" Name="Sale of Investments" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFCF001578" Name="Increase/Decrease in Restricted Cash and Cash Equivalents" />
+              <Account Id="IFCF200390" Name="Dividends Received/Paid, CFI" />
+              <Account Id="IFCF200400" Name="Interest Received/Paid, CFI" />
+              <Account Id="IFCF000910" Name="Other Investing Cash Flow" />
+            </SubAccounts>
+          </Account>
+          <Account Id="IFCF001594" Name="Net Cash Flow from Discontinuing Investing Activities" />
+        </SubAccounts>
+      </Account>
+      <Account Id="IFCF000130" Name="Cash Flow from Financing Activities">
+        <SubAccounts>
+          <Account Id="IFCF001509" Name="Cash Flow from Continuing Financing Activities">
+            <SubAccounts>
+              <Account Id="IFCF000760" Name="Issuance of/Payments for Common Stock, Net">
+                <SubAccounts>
+                  <Account Id="IFCF001080" Name="Proceeds from Issuance of Common Stock" />
+                  <Account Id="IFCF000950" Name="Payments for Common Stock" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFCF000790" Name="Issuance of/Payments for Preferred Stock, Net">
+                <SubAccounts>
+                  <Account Id="IFCF001100" Name="Proceeds from Issuance of Preferred Stock" />
+                  <Account Id="IFCF000960" Name="Payments for Preferred Stock" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFCF000770" Name="Issuance of/Repayments for Debt, Net">
+                <SubAccounts>
+                  <Account Id="IFCF000800" Name="Issuance of/Repayments for Short Term Debt, Net">
+                    <SubAccounts>
+                      <Account Id="IFCF001110" Name="Proceeds from Issuance of Short Term Debt" />
+                      <Account Id="IFCF000990" Name="Repayments for Short Term Debt" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFCF000780" Name="Issuance of/Repayments for Long Term Debt, Net">
+                    <SubAccounts>
+                      <Account Id="IFCF001090" Name="Proceeds from Issuance of Long Term Debt" />
+                      <Account Id="IFCF000980" Name="Repayments for Long Term Debt" />
+                    </SubAccounts>
+                  </Account>
+                </SubAccounts>
+              </Account>
+              <Account Id="IFCF100469" Name="Issuance of/Repayments for Lease Financing">
+                <SubAccounts>
+                  <Account Id="IFCF100470" Name="Proceeds from Lease Financing" />
+                  <Account Id="IFCF100471" Name="Repayments for Lease Financing" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFCF001859" Name="Issuance of/Repayments for Partners Equity, Net">
+                <SubAccounts>
+                  <Account Id="IFCF001860" Name="Proceeds from Issuance of Limited Partner Units" />
+                  <Account Id="IFCF001861" Name="Proceeds from Issuance of General Units" />
+                  <Account Id="IFCF200640" Name="Repayment for Limited Partner Units" />
+                  <Account Id="IFCF200650" Name="Repayment for General Units" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFCF001615" Name="Net Movement in Non-Controlling/Minority Interest" />
+              <Account Id="IFCF100477" Name="Issue and Financing Costs">
+                <SubAccounts>
+                  <Account Id="IFCF001665" Name="Share Issuance Costs" />
+                  <Account Id="IFCF001555" Name="Debt Issuance Costs" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFCF002150" Name="Cash Dividends and Interest Paid">
+                <SubAccounts>
+                  <Account Id="IFCF000080" Name="Cash Dividends Paid">
+                    <SubAccounts>
+                      <Account Id="IFCF000540" Name="Common Stock Dividends Paid" />
+                      <Account Id="IFCF001020" Name="Preferred Stock Dividends Paid" />
+                    </SubAccounts>
+                  </Account>
+                  <Account Id="IFCF200460" Name="Interest Paid, CFF" />
+                </SubAccounts>
+              </Account>
+              <Account Id="IFCF100478" Name="Cash Dividends Paid to Non-Controlling/Minority Interests" />
+              <Account Id="IFCF001794" Name="Excess Tax Benefit from Share-Based Compensation, Financing Activities" />
+              <Account Id="IFCF001643" Name="Proceeds from Issuance/Exercising of Stock Options/Warrants" />
+              <Account Id="IFCF000900" Name="Other Financing Cash Flow" />
+            </SubAccounts>
+          </Account>
+          <Account Id="IFCF001593" Name="Net Cash Flow from Discontinuing Financing Activities" />
+        </SubAccounts>
+      </Account>
+      <Account Id="IFCF001511" Name="Cash Flow from Discontinued Operation, Included in Net Change in Cash" />
+      <Account Id="IFCF001736" Name="Other Cash Adjustments Included in Change in Cash" />
+      <Account Id="IFCF000170" Name="Cash and Cash Equivalents, End of Period">
+        <SubAccounts>
+          <Account Id="IFCF000280" Name="Change in Cash" />
+          <Account Id="IFCF000650" Name="Effect of Exchange Rate Changes" />
+          <Account Id="IFCF001576" Name="Increase/Decrease in Liquid Resources" />
+          <Account Id="IFCF001577" Name="Increase/Decrease in Loans, Lease Financing and Other Debt" />
+          <Account Id="IFCF001621" Name="New Debt and Lease Financing Acquired" />
+          <Account Id="IFCF001624" Name="Other Changes" />
+          <Account Id="IFCF000160" Name="Cash and Cash Equivalents, Beginning of Period" />
+        </SubAccounts>
+      </Account>
+      <Account Id="IFCF001730" Name="Cash Flow Supplemental Section">
+        <SubAccounts>
+          <Account Id="IFCF002210" Name="Change in Cash As Reported, Supplemental" />
+          <Account Id="IFCF001580" Name="Income Tax Paid, Supplemental" />
+          <Account Id="IFCF001697" Name="Income Tax Refund, Supplemental" />
+          <Account Id="IFCF001731" Name="Interest Paid, Supplemental" />
+          <Account Id="IFCF001698" Name="Interest Received, Supplemental" />
+          <Account Id="IFCF100462" Name="Net Cash Flow from Returns on Investments and Servicing of Finance" />
+          <Account Id="IFCF001679" Name="Total Net Change in Cash" />
+          <Account Id="IFCF001506" Name="Cash At End of Year" />
+          <Account Id="IFCF001505" Name="Cash At Beginning of Year" />
+          <Account Id="IFCF001508" Name="Cash Equivalents At End of Year" />
+          <Account Id="IFCF001507" Name="Cash Equivalents At Beginning" />
+          <Account Id="IFCF001614" Name="Net Increase In Cash And Equivalents" />
+          <Account Id="IFCF002106" Name="Cash Payments, Supplemental">
+            <SubAccounts>
+              <Account Id="IFCF002107" Name="Payments to Related Parties" />
+              <Account Id="IFCF002108" Name="Loans to Related Parties" />
+            </SubAccounts>
+          </Account>
+          <Account Id="IFCF002109" Name="Financing Facilities Available, Supplemental">
+            <SubAccounts>
+              <Account Id="IFCF002110" Name="Loan Facilities Available" />
+              <Account Id="IFCF002111" Name="Loan Facilities Used" />
+              <Account Id="IFCF002112" Name="Credit Standby Arrangements Available" />
+              <Account Id="IFCF002113" Name="Credit Standby Arrangements Used" />
+            </SubAccounts>
+          </Account>
+          <Account Id="IFCF002114" Name="Estimated Cash Outflows, Supplemental">
+            <SubAccounts>
+              <Account Id="IFCF002115" Name="Exploration and Evaluation" />
+              <Account Id="IFCF002116" Name="Development" />
+            </SubAccounts>
+          </Account>
+          <Account Id="IFCF001956" Name="Reconciliation of Cash">
+            <SubAccounts>
+              <Account Id="IFCF001957" Name="Cash, Reconciliation of Cash" />
+              <Account Id="IFCF001958" Name="Deposits at Call, Reconciliation of Cash" />
+              <Account Id="IFCF001959" Name="Bank Overdraft, Reconciliation of Cash" />
+              <Account Id="IFCF001960" Name="Other, Reconciliation of Cash" />
+              <Account Id="IFCF001961" Name="Total Cash at end of periods, Reconciliation of Cash" />
+            </SubAccounts>
+          </Account>
+        </SubAccounts>
+      </Account>
+      <Account Id="IFCFZ00002" Name="Free Cash Flow" />
+      <Account Id="IFCFZ00003" Name="Issuance of Capital Stock" />
+      <Account Id="IFCFZ00004" Name="Repurchase of Capital Stock" />
+      <Account Id="IFCFZ00005" Name="Issuance of Debt" />
+      <Account Id="IFCFZ00006" Name="Repayment of Debt" />
+    </SubAccounts>
+  </Account>
+  <Account Id="IFES000000" Name="EpsAndWaso">
+    <SubAccounts>
+      <Account Id="IFIS001841" Name="Common Dividend Per Share" />
+      <Account Id="IFIS002124" Name="Special Dividend Per Share" />
+      <Account Id="IFIS002119" Name="Preferred Dividend Per Share" />
+      <Account Id="IFIS000100" Name="Basic EPS">
+        <SubAccounts>
+          <Account Id="IFIS000120" Name="Basic EPS from Continuing Operations" />
+          <Account Id="IFIS000130" Name="Basic EPS from Discontinued Operations" />
+        </SubAccounts>
+      </Account>
+      <Account Id="IFIS000280" Name="Diluted EPS">
+        <SubAccounts>
+          <Account Id="IFIS000300" Name="Diluted EPS from Continuing Operations" />
+          <Account Id="IFIS000310" Name="Diluted EPS from Discontinued Operations" />
+        </SubAccounts>
+      </Account>
+      <Account Id="IFIS000150" Name="Basic Weighted Average Shares Outstanding" />
+      <Account Id="IFIS000330" Name="Diluted Weighted Average Shares Outstanding" />
+      <Account Id="IFISZ00005" Name="Normalized Basic EPS " />
+      <Account Id="IFISZ00006" Name="Normalized Diluted EPS " />
+    </SubAccounts>
+  </Account>
+</Root>

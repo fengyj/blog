@@ -1,1 +1,1 @@
-bash -c "cd /mnt/c/Users/fengy/Documents/GitHubProjects/blog && hexo generate --deploy" 
+bash -c "cd ~/WinDocuments/GitHubProjects/blog && hexo generate --deploy" 

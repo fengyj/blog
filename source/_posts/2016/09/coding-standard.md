@@ -65,9 +65,9 @@ Imagine this `order.Status = 1`, what does '1' mean? New order, or others? Or wh
 ### Enum Type
 The first choose is Enum. It has better performance than `string` type. And it supports `FlagAttribute`, you can use bit operators on Enum types.
 ### Use Constant
-
+The second way is to define a static class, and define many constants.
 ### Use Settings
-
+Use `Settings` class to instead of `AppConfig`. To use `AppConfig`, you
 ## Switch
 
 ## Use Generic Types

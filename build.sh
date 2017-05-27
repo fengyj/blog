@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /mnt/c/Users/fengy/Documents/GitHubProjects/blog
+cd ~/WinDocuments/GitHubProjects/blog
 hexo generate --deploy
